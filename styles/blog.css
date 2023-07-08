@@ -1,7 +1,9 @@
 div{
-background-color: darkmagenta; margin: 10px; font-style: italic;
+background-color: bisque ; margin: 10px; font-style: italic;
 padding: 20; border-bottom: 10px;
-
-
+}
+.font{
+font-size: larger; border-bottom: 10px; color: bisque;
 
 }
+
